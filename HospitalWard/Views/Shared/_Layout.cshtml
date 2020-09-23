@@ -1,0 +1,101 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - My ASP.NET Application</title>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+    <link rel="stylesheet" type="text/css" href="~/CssAndJs/styles/bootstrap4/bootstrap.min.css">
+    <link href="~/CssAndJs/plugins/font-awesome-4.7.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <link rel="stylesheet" type="text/css" href="~/CssAndJs/plugins/OwlCarousel2-2.2.1/owl.carousel.css">
+    <link rel="stylesheet" type="text/css" href="~/CssAndJs/plugins/OwlCarousel2-2.2.1/owl.theme.default.css">
+    <link rel="stylesheet" type="text/css" href="~/CssAndJs/plugins/OwlCarousel2-2.2.1/animate.css">
+    <link rel="stylesheet" type="text/css" href="~/CssAndJs/styles/main_styles.css">
+    <link rel="stylesheet" type="text/css" href="~/CssAndJs/styles/responsive.css">
+    <style>
+        table {
+            background-color: #20D34A;
+        }
+    </style>
+</head>
+<body>
+    <div class="super_container">
+
+        <!-- Header -->
+
+        <header class="header trans_200">
+            <!-- Header Content -->
+            <div class="header_container">
+                <div class="container">
+                    <div class="row">
+                        <div class="col">
+                            <div class="header_content d-flex flex-row align-items-center justify-content-start">
+                                <nav class="main_nav ml-auto">
+                                    <ul>
+                                        <li>@Html.ActionLink("Home", "Index", "Home")</li>
+                                        <li>@Html.ActionLink("Doctor", "Index", "Doctors")</li>
+                                        <li>@Html.ActionLink("Nurse", "Index", "Nurses")</li>
+                                        <li>@Html.ActionLink("Ward", "Index", "Wards")</li>
+                                        <li>@Html.ActionLink("Patient", "Index", "Patients")</li>
+                                        <li>@Html.ActionLink("Doctor API", "Index", "ApiTest")</li>
+                                        @Html.Partial("_LoginPartial")
+                                    </ul>
+                                </nav>
+                                <div class="hamburger ml-auto"><i class="fa fa-bars" aria-hidden="true"></i></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Logo -->
+            <div class="logo_container_outer">
+                <div class="container">
+                    <div class="row">
+                        <div class="col">
+                            <div class="logo_container">
+                                <a href="#">
+                                    <div class="logo_content d-flex flex-column align-items-start justify-content-center">
+                                        <div class="logo_line"></div>
+                                        <div class="logo d-flex flex-row align-items-center justify-content-center">
+                                            <div class="logo_text">Care<span>Med</span></div>
+                                            <div class="logo_box">+</div>
+                                        </div>
+                                        <div class="logo_sub">Health Care Center</div>
+                                    </div>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </header>
+        <div class="menu_container menu_mm">
+
+            <!-- Menu Close Button -->
+            <div class="menu_close_container">
+                <div class="menu_close"></div>
+            </div>
+        </div>
+        <div class="container body-content" style="margin-top:50px;">
+            @RenderBody()
+            <hr />
+            <footer>
+                <p>&copy; @DateTime.Now.Year - My ASP.NET Application</p>
+            </footer>
+        </div>
+    </div>
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @RenderSection("scripts", required: false)
+    <script src="~/CssAndJs/js/jquery-3.2.1.min.js"></script>
+    <script src="~/CssAndJs/styles/bootstrap4/popper.js"></script>
+    <script src="~/CssAndJs/styles/bootstrap4/bootstrap.min.js"></script>
+    <script src="~/CssAndJs/plugins/OwlCarousel2-2.2.1/owl.carousel.js"></script>
+    <script src="~/CssAndJs/plugins/easing/easing.js"></script>
+    <script src="~/CssAndJs/plugins/parallax-js-master/parallax.min.js"></script>
+    <script src="~/CssAndJs/js/custom.js"></script>
+</body>
+</html>

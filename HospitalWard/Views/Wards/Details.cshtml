@@ -1,0 +1,51 @@
+﻿@model HospitalWard.Models.Ward
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Ward</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Doctor.DoctorName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Doctor.DoctorName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Nurse.NurseName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Nurse.NurseName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Name)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Name)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Location)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Location)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.ID }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

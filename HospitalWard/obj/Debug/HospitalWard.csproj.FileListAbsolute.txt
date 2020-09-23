@@ -1,0 +1,321 @@
+D:\PracticeProject\HospitalWard\HospitalWard\bin\HospitalWard.dll.config
+D:\PracticeProject\HospitalWard\HospitalWard\bin\HospitalWard.dll
+D:\PracticeProject\HospitalWard\HospitalWard\bin\HospitalWard.pdb
+D:\PracticeProject\HospitalWard\HospitalWard\bin\roslyn\csc.exe
+D:\PracticeProject\HospitalWard\HospitalWard\bin\roslyn\csc.exe.config
+D:\PracticeProject\HospitalWard\HospitalWard\bin\roslyn\csc.rsp
+D:\PracticeProject\HospitalWard\HospitalWard\bin\roslyn\csi.exe
+D:\PracticeProject\HospitalWard\HospitalWard\bin\roslyn\csi.exe.config
+D:\PracticeProject\HospitalWard\HospitalWard\bin\roslyn\csi.rsp
+D:\PracticeProject\HospitalWard\HospitalWard\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\PracticeProject\HospitalWard\HospitalWard\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\PracticeProject\HospitalWard\HospitalWard\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\PracticeProject\HospitalWard\HospitalWard\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\PracticeProject\HospitalWard\HospitalWard\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\PracticeProject\HospitalWard\HospitalWard\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\PracticeProject\HospitalWard\HospitalWard\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\PracticeProject\HospitalWard\HospitalWard\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\PracticeProject\HospitalWard\HospitalWard\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\PracticeProject\HospitalWard\HospitalWard\bin\roslyn\Microsoft.Managed.Core.targets
+D:\PracticeProject\HospitalWard\HospitalWard\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\PracticeProject\HospitalWard\HospitalWard\bin\roslyn\System.AppContext.dll
+D:\PracticeProject\HospitalWard\HospitalWard\bin\roslyn\System.Collections.Immutable.dll
+D:\PracticeProject\HospitalWard\HospitalWard\bin\roslyn\System.Console.dll
+D:\PracticeProject\HospitalWard\HospitalWard\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\PracticeProject\HospitalWard\HospitalWard\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\PracticeProject\HospitalWard\HospitalWard\bin\roslyn\System.IO.Compression.dll
+D:\PracticeProject\HospitalWard\HospitalWard\bin\roslyn\System.IO.FileSystem.dll
+D:\PracticeProject\HospitalWard\HospitalWard\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\PracticeProject\HospitalWard\HospitalWard\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\PracticeProject\HospitalWard\HospitalWard\bin\roslyn\System.IO.Pipes.dll
+D:\PracticeProject\HospitalWard\HospitalWard\bin\roslyn\System.Reflection.Metadata.dll
+D:\PracticeProject\HospitalWard\HospitalWard\bin\roslyn\System.Security.AccessControl.dll
+D:\PracticeProject\HospitalWard\HospitalWard\bin\roslyn\System.Security.Claims.dll
+D:\PracticeProject\HospitalWard\HospitalWard\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\PracticeProject\HospitalWard\HospitalWard\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\PracticeProject\HospitalWard\HospitalWard\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\PracticeProject\HospitalWard\HospitalWard\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\PracticeProject\HospitalWard\HospitalWard\bin\roslyn\System.Security.Principal.Windows.dll
+D:\PracticeProject\HospitalWard\HospitalWard\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\PracticeProject\HospitalWard\HospitalWard\bin\roslyn\System.ValueTuple.dll
+D:\PracticeProject\HospitalWard\HospitalWard\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\PracticeProject\HospitalWard\HospitalWard\bin\roslyn\System.Xml.XmlDocument.dll
+D:\PracticeProject\HospitalWard\HospitalWard\bin\roslyn\System.Xml.XPath.dll
+D:\PracticeProject\HospitalWard\HospitalWard\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\PracticeProject\HospitalWard\HospitalWard\bin\roslyn\vbc.exe
+D:\PracticeProject\HospitalWard\HospitalWard\bin\roslyn\vbc.exe.config
+D:\PracticeProject\HospitalWard\HospitalWard\bin\roslyn\vbc.rsp
+D:\PracticeProject\HospitalWard\HospitalWard\bin\roslyn\VBCSCompiler.exe
+D:\PracticeProject\HospitalWard\HospitalWard\bin\roslyn\VBCSCompiler.exe.config
+D:\PracticeProject\HospitalWard\HospitalWard\bin\Antlr3.Runtime.dll
+D:\PracticeProject\HospitalWard\HospitalWard\bin\EntityFramework.dll
+D:\PracticeProject\HospitalWard\HospitalWard\bin\EntityFramework.SqlServer.dll
+D:\PracticeProject\HospitalWard\HospitalWard\bin\Microsoft.AspNet.Identity.Core.dll
+D:\PracticeProject\HospitalWard\HospitalWard\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\PracticeProject\HospitalWard\HospitalWard\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\PracticeProject\HospitalWard\HospitalWard\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\PracticeProject\HospitalWard\HospitalWard\bin\Microsoft.Owin.dll
+D:\PracticeProject\HospitalWard\HospitalWard\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\PracticeProject\HospitalWard\HospitalWard\bin\Microsoft.Owin.Security.Cookies.dll
+D:\PracticeProject\HospitalWard\HospitalWard\bin\Microsoft.Owin.Security.dll
+D:\PracticeProject\HospitalWard\HospitalWard\bin\Microsoft.Owin.Security.Facebook.dll
+D:\PracticeProject\HospitalWard\HospitalWard\bin\Microsoft.Owin.Security.Google.dll
+D:\PracticeProject\HospitalWard\HospitalWard\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\PracticeProject\HospitalWard\HospitalWard\bin\Microsoft.Owin.Security.OAuth.dll
+D:\PracticeProject\HospitalWard\HospitalWard\bin\Microsoft.Owin.Security.Twitter.dll
+D:\PracticeProject\HospitalWard\HospitalWard\bin\Microsoft.Web.Infrastructure.dll
+D:\PracticeProject\HospitalWard\HospitalWard\bin\Newtonsoft.Json.dll
+D:\PracticeProject\HospitalWard\HospitalWard\bin\Owin.dll
+D:\PracticeProject\HospitalWard\HospitalWard\bin\System.Web.Helpers.dll
+D:\PracticeProject\HospitalWard\HospitalWard\bin\System.Web.Mvc.dll
+D:\PracticeProject\HospitalWard\HospitalWard\bin\System.Web.Optimization.dll
+D:\PracticeProject\HospitalWard\HospitalWard\bin\System.Web.Razor.dll
+D:\PracticeProject\HospitalWard\HospitalWard\bin\System.Web.WebPages.Deployment.dll
+D:\PracticeProject\HospitalWard\HospitalWard\bin\System.Web.WebPages.dll
+D:\PracticeProject\HospitalWard\HospitalWard\bin\System.Web.WebPages.Razor.dll
+D:\PracticeProject\HospitalWard\HospitalWard\bin\WebGrease.dll
+D:\PracticeProject\HospitalWard\HospitalWard\bin\System.Web.Helpers.xml
+D:\PracticeProject\HospitalWard\HospitalWard\bin\System.Web.Mvc.xml
+D:\PracticeProject\HospitalWard\HospitalWard\bin\System.Web.Optimization.xml
+D:\PracticeProject\HospitalWard\HospitalWard\bin\System.Web.Razor.xml
+D:\PracticeProject\HospitalWard\HospitalWard\bin\System.Web.WebPages.xml
+D:\PracticeProject\HospitalWard\HospitalWard\bin\System.Web.WebPages.Deployment.xml
+D:\PracticeProject\HospitalWard\HospitalWard\bin\System.Web.WebPages.Razor.xml
+D:\PracticeProject\HospitalWard\HospitalWard\bin\Newtonsoft.Json.xml
+D:\PracticeProject\HospitalWard\HospitalWard\bin\Antlr3.Runtime.pdb
+D:\PracticeProject\HospitalWard\HospitalWard\bin\EntityFramework.xml
+D:\PracticeProject\HospitalWard\HospitalWard\bin\EntityFramework.SqlServer.xml
+D:\PracticeProject\HospitalWard\HospitalWard\bin\Microsoft.AspNet.Identity.Core.xml
+D:\PracticeProject\HospitalWard\HospitalWard\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\PracticeProject\HospitalWard\HospitalWard\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\PracticeProject\HospitalWard\HospitalWard\bin\Microsoft.Owin.xml
+D:\PracticeProject\HospitalWard\HospitalWard\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\PracticeProject\HospitalWard\HospitalWard\bin\Microsoft.Owin.Security.xml
+D:\PracticeProject\HospitalWard\HospitalWard\bin\Microsoft.Owin.Security.Facebook.xml
+D:\PracticeProject\HospitalWard\HospitalWard\bin\Microsoft.Owin.Security.Cookies.xml
+D:\PracticeProject\HospitalWard\HospitalWard\bin\Microsoft.Owin.Security.Google.xml
+D:\PracticeProject\HospitalWard\HospitalWard\bin\Microsoft.Owin.Security.Twitter.xml
+D:\PracticeProject\HospitalWard\HospitalWard\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\PracticeProject\HospitalWard\HospitalWard\bin\Microsoft.Owin.Security.OAuth.xml
+D:\PracticeProject\HospitalWard\HospitalWard\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\PracticeProject\HospitalWard\HospitalWard\obj\Debug\HospitalWard.csprojAssemblyReference.cache
+D:\PracticeProject\HospitalWard\HospitalWard\obj\Debug\HospitalWard.csproj.CoreCompileInputs.cache
+D:\PracticeProject\HospitalWard\HospitalWard\obj\Debug\HospitalWard.csproj.CopyComplete
+D:\PracticeProject\HospitalWard\HospitalWard\obj\Debug\HospitalWard.dll
+D:\PracticeProject\HospitalWard\HospitalWard\obj\Debug\HospitalWard.pdb
+D:\PracticeProject\HospitalWard\HospitalWard\obj\Debug\HospitalWard.Migrations.initial.resources
+D:\PracticeProject\HospitalWard\HospitalWard\obj\Debug\HospitalWard.csproj.GenerateResource.cache
+E:\8th Assignments\22-08-2020\Jugraj 8th\HospitalWard\HospitalWard\bin\HospitalWard.dll.config
+E:\8th Assignments\22-08-2020\Jugraj 8th\HospitalWard\HospitalWard\bin\HospitalWard.dll
+E:\8th Assignments\22-08-2020\Jugraj 8th\HospitalWard\HospitalWard\bin\HospitalWard.pdb
+E:\8th Assignments\22-08-2020\Jugraj 8th\HospitalWard\HospitalWard\bin\roslyn\csc.exe
+E:\8th Assignments\22-08-2020\Jugraj 8th\HospitalWard\HospitalWard\bin\roslyn\csc.exe.config
+E:\8th Assignments\22-08-2020\Jugraj 8th\HospitalWard\HospitalWard\bin\roslyn\csc.rsp
+E:\8th Assignments\22-08-2020\Jugraj 8th\HospitalWard\HospitalWard\bin\roslyn\csi.exe
+E:\8th Assignments\22-08-2020\Jugraj 8th\HospitalWard\HospitalWard\bin\roslyn\csi.exe.config
+E:\8th Assignments\22-08-2020\Jugraj 8th\HospitalWard\HospitalWard\bin\roslyn\csi.rsp
+E:\8th Assignments\22-08-2020\Jugraj 8th\HospitalWard\HospitalWard\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\8th Assignments\22-08-2020\Jugraj 8th\HospitalWard\HospitalWard\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\8th Assignments\22-08-2020\Jugraj 8th\HospitalWard\HospitalWard\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\8th Assignments\22-08-2020\Jugraj 8th\HospitalWard\HospitalWard\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\8th Assignments\22-08-2020\Jugraj 8th\HospitalWard\HospitalWard\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\8th Assignments\22-08-2020\Jugraj 8th\HospitalWard\HospitalWard\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\8th Assignments\22-08-2020\Jugraj 8th\HospitalWard\HospitalWard\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\8th Assignments\22-08-2020\Jugraj 8th\HospitalWard\HospitalWard\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\8th Assignments\22-08-2020\Jugraj 8th\HospitalWard\HospitalWard\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\8th Assignments\22-08-2020\Jugraj 8th\HospitalWard\HospitalWard\bin\roslyn\Microsoft.Managed.Core.targets
+E:\8th Assignments\22-08-2020\Jugraj 8th\HospitalWard\HospitalWard\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\8th Assignments\22-08-2020\Jugraj 8th\HospitalWard\HospitalWard\bin\roslyn\System.AppContext.dll
+E:\8th Assignments\22-08-2020\Jugraj 8th\HospitalWard\HospitalWard\bin\roslyn\System.Collections.Immutable.dll
+E:\8th Assignments\22-08-2020\Jugraj 8th\HospitalWard\HospitalWard\bin\roslyn\System.Console.dll
+E:\8th Assignments\22-08-2020\Jugraj 8th\HospitalWard\HospitalWard\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\8th Assignments\22-08-2020\Jugraj 8th\HospitalWard\HospitalWard\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\8th Assignments\22-08-2020\Jugraj 8th\HospitalWard\HospitalWard\bin\roslyn\System.IO.Compression.dll
+E:\8th Assignments\22-08-2020\Jugraj 8th\HospitalWard\HospitalWard\bin\roslyn\System.IO.FileSystem.dll
+E:\8th Assignments\22-08-2020\Jugraj 8th\HospitalWard\HospitalWard\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\8th Assignments\22-08-2020\Jugraj 8th\HospitalWard\HospitalWard\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\8th Assignments\22-08-2020\Jugraj 8th\HospitalWard\HospitalWard\bin\roslyn\System.IO.Pipes.dll
+E:\8th Assignments\22-08-2020\Jugraj 8th\HospitalWard\HospitalWard\bin\roslyn\System.Reflection.Metadata.dll
+E:\8th Assignments\22-08-2020\Jugraj 8th\HospitalWard\HospitalWard\bin\roslyn\System.Security.AccessControl.dll
+E:\8th Assignments\22-08-2020\Jugraj 8th\HospitalWard\HospitalWard\bin\roslyn\System.Security.Claims.dll
+E:\8th Assignments\22-08-2020\Jugraj 8th\HospitalWard\HospitalWard\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\8th Assignments\22-08-2020\Jugraj 8th\HospitalWard\HospitalWard\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\8th Assignments\22-08-2020\Jugraj 8th\HospitalWard\HospitalWard\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\8th Assignments\22-08-2020\Jugraj 8th\HospitalWard\HospitalWard\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\8th Assignments\22-08-2020\Jugraj 8th\HospitalWard\HospitalWard\bin\roslyn\System.Security.Principal.Windows.dll
+E:\8th Assignments\22-08-2020\Jugraj 8th\HospitalWard\HospitalWard\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\8th Assignments\22-08-2020\Jugraj 8th\HospitalWard\HospitalWard\bin\roslyn\System.ValueTuple.dll
+E:\8th Assignments\22-08-2020\Jugraj 8th\HospitalWard\HospitalWard\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\8th Assignments\22-08-2020\Jugraj 8th\HospitalWard\HospitalWard\bin\roslyn\System.Xml.XmlDocument.dll
+E:\8th Assignments\22-08-2020\Jugraj 8th\HospitalWard\HospitalWard\bin\roslyn\System.Xml.XPath.dll
+E:\8th Assignments\22-08-2020\Jugraj 8th\HospitalWard\HospitalWard\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\8th Assignments\22-08-2020\Jugraj 8th\HospitalWard\HospitalWard\bin\roslyn\vbc.exe
+E:\8th Assignments\22-08-2020\Jugraj 8th\HospitalWard\HospitalWard\bin\roslyn\vbc.exe.config
+E:\8th Assignments\22-08-2020\Jugraj 8th\HospitalWard\HospitalWard\bin\roslyn\vbc.rsp
+E:\8th Assignments\22-08-2020\Jugraj 8th\HospitalWard\HospitalWard\bin\roslyn\VBCSCompiler.exe
+E:\8th Assignments\22-08-2020\Jugraj 8th\HospitalWard\HospitalWard\bin\roslyn\VBCSCompiler.exe.config
+E:\8th Assignments\22-08-2020\Jugraj 8th\HospitalWard\HospitalWard\bin\Antlr3.Runtime.dll
+E:\8th Assignments\22-08-2020\Jugraj 8th\HospitalWard\HospitalWard\bin\EntityFramework.dll
+E:\8th Assignments\22-08-2020\Jugraj 8th\HospitalWard\HospitalWard\bin\EntityFramework.SqlServer.dll
+E:\8th Assignments\22-08-2020\Jugraj 8th\HospitalWard\HospitalWard\bin\Microsoft.AspNet.Identity.Core.dll
+E:\8th Assignments\22-08-2020\Jugraj 8th\HospitalWard\HospitalWard\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\8th Assignments\22-08-2020\Jugraj 8th\HospitalWard\HospitalWard\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\8th Assignments\22-08-2020\Jugraj 8th\HospitalWard\HospitalWard\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\8th Assignments\22-08-2020\Jugraj 8th\HospitalWard\HospitalWard\bin\Microsoft.Owin.dll
+E:\8th Assignments\22-08-2020\Jugraj 8th\HospitalWard\HospitalWard\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\8th Assignments\22-08-2020\Jugraj 8th\HospitalWard\HospitalWard\bin\Microsoft.Owin.Security.Cookies.dll
+E:\8th Assignments\22-08-2020\Jugraj 8th\HospitalWard\HospitalWard\bin\Microsoft.Owin.Security.dll
+E:\8th Assignments\22-08-2020\Jugraj 8th\HospitalWard\HospitalWard\bin\Microsoft.Owin.Security.Facebook.dll
+E:\8th Assignments\22-08-2020\Jugraj 8th\HospitalWard\HospitalWard\bin\Microsoft.Owin.Security.Google.dll
+E:\8th Assignments\22-08-2020\Jugraj 8th\HospitalWard\HospitalWard\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\8th Assignments\22-08-2020\Jugraj 8th\HospitalWard\HospitalWard\bin\Microsoft.Owin.Security.OAuth.dll
+E:\8th Assignments\22-08-2020\Jugraj 8th\HospitalWard\HospitalWard\bin\Microsoft.Owin.Security.Twitter.dll
+E:\8th Assignments\22-08-2020\Jugraj 8th\HospitalWard\HospitalWard\bin\Microsoft.Web.Infrastructure.dll
+E:\8th Assignments\22-08-2020\Jugraj 8th\HospitalWard\HospitalWard\bin\Newtonsoft.Json.dll
+E:\8th Assignments\22-08-2020\Jugraj 8th\HospitalWard\HospitalWard\bin\Owin.dll
+E:\8th Assignments\22-08-2020\Jugraj 8th\HospitalWard\HospitalWard\bin\System.Web.Helpers.dll
+E:\8th Assignments\22-08-2020\Jugraj 8th\HospitalWard\HospitalWard\bin\System.Web.Mvc.dll
+E:\8th Assignments\22-08-2020\Jugraj 8th\HospitalWard\HospitalWard\bin\System.Web.Optimization.dll
+E:\8th Assignments\22-08-2020\Jugraj 8th\HospitalWard\HospitalWard\bin\System.Web.Razor.dll
+E:\8th Assignments\22-08-2020\Jugraj 8th\HospitalWard\HospitalWard\bin\System.Web.WebPages.Deployment.dll
+E:\8th Assignments\22-08-2020\Jugraj 8th\HospitalWard\HospitalWard\bin\System.Web.WebPages.dll
+E:\8th Assignments\22-08-2020\Jugraj 8th\HospitalWard\HospitalWard\bin\System.Web.WebPages.Razor.dll
+E:\8th Assignments\22-08-2020\Jugraj 8th\HospitalWard\HospitalWard\bin\WebGrease.dll
+E:\8th Assignments\22-08-2020\Jugraj 8th\HospitalWard\HospitalWard\bin\System.Web.Helpers.xml
+E:\8th Assignments\22-08-2020\Jugraj 8th\HospitalWard\HospitalWard\bin\System.Web.Mvc.xml
+E:\8th Assignments\22-08-2020\Jugraj 8th\HospitalWard\HospitalWard\bin\System.Web.Optimization.xml
+E:\8th Assignments\22-08-2020\Jugraj 8th\HospitalWard\HospitalWard\bin\System.Web.Razor.xml
+E:\8th Assignments\22-08-2020\Jugraj 8th\HospitalWard\HospitalWard\bin\System.Web.WebPages.xml
+E:\8th Assignments\22-08-2020\Jugraj 8th\HospitalWard\HospitalWard\bin\System.Web.WebPages.Deployment.xml
+E:\8th Assignments\22-08-2020\Jugraj 8th\HospitalWard\HospitalWard\bin\System.Web.WebPages.Razor.xml
+E:\8th Assignments\22-08-2020\Jugraj 8th\HospitalWard\HospitalWard\bin\Newtonsoft.Json.xml
+E:\8th Assignments\22-08-2020\Jugraj 8th\HospitalWard\HospitalWard\bin\Antlr3.Runtime.pdb
+E:\8th Assignments\22-08-2020\Jugraj 8th\HospitalWard\HospitalWard\bin\EntityFramework.xml
+E:\8th Assignments\22-08-2020\Jugraj 8th\HospitalWard\HospitalWard\bin\EntityFramework.SqlServer.xml
+E:\8th Assignments\22-08-2020\Jugraj 8th\HospitalWard\HospitalWard\bin\Microsoft.AspNet.Identity.Core.xml
+E:\8th Assignments\22-08-2020\Jugraj 8th\HospitalWard\HospitalWard\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\8th Assignments\22-08-2020\Jugraj 8th\HospitalWard\HospitalWard\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\8th Assignments\22-08-2020\Jugraj 8th\HospitalWard\HospitalWard\bin\Microsoft.Owin.xml
+E:\8th Assignments\22-08-2020\Jugraj 8th\HospitalWard\HospitalWard\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\8th Assignments\22-08-2020\Jugraj 8th\HospitalWard\HospitalWard\bin\Microsoft.Owin.Security.xml
+E:\8th Assignments\22-08-2020\Jugraj 8th\HospitalWard\HospitalWard\bin\Microsoft.Owin.Security.Facebook.xml
+E:\8th Assignments\22-08-2020\Jugraj 8th\HospitalWard\HospitalWard\bin\Microsoft.Owin.Security.Cookies.xml
+E:\8th Assignments\22-08-2020\Jugraj 8th\HospitalWard\HospitalWard\bin\Microsoft.Owin.Security.Google.xml
+E:\8th Assignments\22-08-2020\Jugraj 8th\HospitalWard\HospitalWard\bin\Microsoft.Owin.Security.Twitter.xml
+E:\8th Assignments\22-08-2020\Jugraj 8th\HospitalWard\HospitalWard\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\8th Assignments\22-08-2020\Jugraj 8th\HospitalWard\HospitalWard\bin\Microsoft.Owin.Security.OAuth.xml
+E:\8th Assignments\22-08-2020\Jugraj 8th\HospitalWard\HospitalWard\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\8th Assignments\22-08-2020\Jugraj 8th\HospitalWard\HospitalWard\obj\Debug\HospitalWard.csprojAssemblyReference.cache
+E:\8th Assignments\22-08-2020\Jugraj 8th\HospitalWard\HospitalWard\obj\Debug\HospitalWard.Migrations.initial.resources
+E:\8th Assignments\22-08-2020\Jugraj 8th\HospitalWard\HospitalWard\obj\Debug\HospitalWard.csproj.GenerateResource.cache
+E:\8th Assignments\22-08-2020\Jugraj 8th\HospitalWard\HospitalWard\obj\Debug\HospitalWard.csproj.CoreCompileInputs.cache
+E:\8th Assignments\22-08-2020\Jugraj 8th\HospitalWard\HospitalWard\obj\Debug\HospitalWard.csproj.CopyComplete
+E:\8th Assignments\22-08-2020\Jugraj 8th\HospitalWard\HospitalWard\obj\Debug\HospitalWard.dll
+E:\8th Assignments\22-08-2020\Jugraj 8th\HospitalWard\HospitalWard\obj\Debug\HospitalWard.pdb
+E:\9th assignment\24-07-2020\Jugraj 9th\HospitalWard\HospitalWard\bin\HospitalWard.dll.config
+E:\9th assignment\24-07-2020\Jugraj 9th\HospitalWard\HospitalWard\bin\HospitalWard.dll
+E:\9th assignment\24-07-2020\Jugraj 9th\HospitalWard\HospitalWard\bin\HospitalWard.pdb
+E:\9th assignment\24-07-2020\Jugraj 9th\HospitalWard\HospitalWard\bin\roslyn\csc.exe
+E:\9th assignment\24-07-2020\Jugraj 9th\HospitalWard\HospitalWard\bin\roslyn\csc.exe.config
+E:\9th assignment\24-07-2020\Jugraj 9th\HospitalWard\HospitalWard\bin\roslyn\csc.rsp
+E:\9th assignment\24-07-2020\Jugraj 9th\HospitalWard\HospitalWard\bin\roslyn\csi.exe
+E:\9th assignment\24-07-2020\Jugraj 9th\HospitalWard\HospitalWard\bin\roslyn\csi.exe.config
+E:\9th assignment\24-07-2020\Jugraj 9th\HospitalWard\HospitalWard\bin\roslyn\csi.rsp
+E:\9th assignment\24-07-2020\Jugraj 9th\HospitalWard\HospitalWard\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\9th assignment\24-07-2020\Jugraj 9th\HospitalWard\HospitalWard\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\9th assignment\24-07-2020\Jugraj 9th\HospitalWard\HospitalWard\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\9th assignment\24-07-2020\Jugraj 9th\HospitalWard\HospitalWard\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\9th assignment\24-07-2020\Jugraj 9th\HospitalWard\HospitalWard\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\9th assignment\24-07-2020\Jugraj 9th\HospitalWard\HospitalWard\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\9th assignment\24-07-2020\Jugraj 9th\HospitalWard\HospitalWard\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\9th assignment\24-07-2020\Jugraj 9th\HospitalWard\HospitalWard\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\9th assignment\24-07-2020\Jugraj 9th\HospitalWard\HospitalWard\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\9th assignment\24-07-2020\Jugraj 9th\HospitalWard\HospitalWard\bin\roslyn\Microsoft.Managed.Core.targets
+E:\9th assignment\24-07-2020\Jugraj 9th\HospitalWard\HospitalWard\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\9th assignment\24-07-2020\Jugraj 9th\HospitalWard\HospitalWard\bin\roslyn\System.AppContext.dll
+E:\9th assignment\24-07-2020\Jugraj 9th\HospitalWard\HospitalWard\bin\roslyn\System.Collections.Immutable.dll
+E:\9th assignment\24-07-2020\Jugraj 9th\HospitalWard\HospitalWard\bin\roslyn\System.Console.dll
+E:\9th assignment\24-07-2020\Jugraj 9th\HospitalWard\HospitalWard\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\9th assignment\24-07-2020\Jugraj 9th\HospitalWard\HospitalWard\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\9th assignment\24-07-2020\Jugraj 9th\HospitalWard\HospitalWard\bin\roslyn\System.IO.Compression.dll
+E:\9th assignment\24-07-2020\Jugraj 9th\HospitalWard\HospitalWard\bin\roslyn\System.IO.FileSystem.dll
+E:\9th assignment\24-07-2020\Jugraj 9th\HospitalWard\HospitalWard\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\9th assignment\24-07-2020\Jugraj 9th\HospitalWard\HospitalWard\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\9th assignment\24-07-2020\Jugraj 9th\HospitalWard\HospitalWard\bin\roslyn\System.IO.Pipes.dll
+E:\9th assignment\24-07-2020\Jugraj 9th\HospitalWard\HospitalWard\bin\roslyn\System.Reflection.Metadata.dll
+E:\9th assignment\24-07-2020\Jugraj 9th\HospitalWard\HospitalWard\bin\roslyn\System.Security.AccessControl.dll
+E:\9th assignment\24-07-2020\Jugraj 9th\HospitalWard\HospitalWard\bin\roslyn\System.Security.Claims.dll
+E:\9th assignment\24-07-2020\Jugraj 9th\HospitalWard\HospitalWard\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\9th assignment\24-07-2020\Jugraj 9th\HospitalWard\HospitalWard\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\9th assignment\24-07-2020\Jugraj 9th\HospitalWard\HospitalWard\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\9th assignment\24-07-2020\Jugraj 9th\HospitalWard\HospitalWard\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\9th assignment\24-07-2020\Jugraj 9th\HospitalWard\HospitalWard\bin\roslyn\System.Security.Principal.Windows.dll
+E:\9th assignment\24-07-2020\Jugraj 9th\HospitalWard\HospitalWard\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\9th assignment\24-07-2020\Jugraj 9th\HospitalWard\HospitalWard\bin\roslyn\System.ValueTuple.dll
+E:\9th assignment\24-07-2020\Jugraj 9th\HospitalWard\HospitalWard\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\9th assignment\24-07-2020\Jugraj 9th\HospitalWard\HospitalWard\bin\roslyn\System.Xml.XmlDocument.dll
+E:\9th assignment\24-07-2020\Jugraj 9th\HospitalWard\HospitalWard\bin\roslyn\System.Xml.XPath.dll
+E:\9th assignment\24-07-2020\Jugraj 9th\HospitalWard\HospitalWard\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\9th assignment\24-07-2020\Jugraj 9th\HospitalWard\HospitalWard\bin\roslyn\vbc.exe
+E:\9th assignment\24-07-2020\Jugraj 9th\HospitalWard\HospitalWard\bin\roslyn\vbc.exe.config
+E:\9th assignment\24-07-2020\Jugraj 9th\HospitalWard\HospitalWard\bin\roslyn\vbc.rsp
+E:\9th assignment\24-07-2020\Jugraj 9th\HospitalWard\HospitalWard\bin\roslyn\VBCSCompiler.exe
+E:\9th assignment\24-07-2020\Jugraj 9th\HospitalWard\HospitalWard\bin\roslyn\VBCSCompiler.exe.config
+E:\9th assignment\24-07-2020\Jugraj 9th\HospitalWard\HospitalWard\bin\Antlr3.Runtime.dll
+E:\9th assignment\24-07-2020\Jugraj 9th\HospitalWard\HospitalWard\bin\EntityFramework.dll
+E:\9th assignment\24-07-2020\Jugraj 9th\HospitalWard\HospitalWard\bin\EntityFramework.SqlServer.dll
+E:\9th assignment\24-07-2020\Jugraj 9th\HospitalWard\HospitalWard\bin\Microsoft.AspNet.Identity.Core.dll
+E:\9th assignment\24-07-2020\Jugraj 9th\HospitalWard\HospitalWard\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\9th assignment\24-07-2020\Jugraj 9th\HospitalWard\HospitalWard\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\9th assignment\24-07-2020\Jugraj 9th\HospitalWard\HospitalWard\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\9th assignment\24-07-2020\Jugraj 9th\HospitalWard\HospitalWard\bin\Microsoft.Owin.dll
+E:\9th assignment\24-07-2020\Jugraj 9th\HospitalWard\HospitalWard\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\9th assignment\24-07-2020\Jugraj 9th\HospitalWard\HospitalWard\bin\Microsoft.Owin.Security.Cookies.dll
+E:\9th assignment\24-07-2020\Jugraj 9th\HospitalWard\HospitalWard\bin\Microsoft.Owin.Security.dll
+E:\9th assignment\24-07-2020\Jugraj 9th\HospitalWard\HospitalWard\bin\Microsoft.Owin.Security.Facebook.dll
+E:\9th assignment\24-07-2020\Jugraj 9th\HospitalWard\HospitalWard\bin\Microsoft.Owin.Security.Google.dll
+E:\9th assignment\24-07-2020\Jugraj 9th\HospitalWard\HospitalWard\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\9th assignment\24-07-2020\Jugraj 9th\HospitalWard\HospitalWard\bin\Microsoft.Owin.Security.OAuth.dll
+E:\9th assignment\24-07-2020\Jugraj 9th\HospitalWard\HospitalWard\bin\Microsoft.Owin.Security.Twitter.dll
+E:\9th assignment\24-07-2020\Jugraj 9th\HospitalWard\HospitalWard\bin\Microsoft.Web.Infrastructure.dll
+E:\9th assignment\24-07-2020\Jugraj 9th\HospitalWard\HospitalWard\bin\Newtonsoft.Json.dll
+E:\9th assignment\24-07-2020\Jugraj 9th\HospitalWard\HospitalWard\bin\Owin.dll
+E:\9th assignment\24-07-2020\Jugraj 9th\HospitalWard\HospitalWard\bin\System.Web.Helpers.dll
+E:\9th assignment\24-07-2020\Jugraj 9th\HospitalWard\HospitalWard\bin\System.Web.Mvc.dll
+E:\9th assignment\24-07-2020\Jugraj 9th\HospitalWard\HospitalWard\bin\System.Web.Optimization.dll
+E:\9th assignment\24-07-2020\Jugraj 9th\HospitalWard\HospitalWard\bin\System.Web.Razor.dll
+E:\9th assignment\24-07-2020\Jugraj 9th\HospitalWard\HospitalWard\bin\System.Web.WebPages.Deployment.dll
+E:\9th assignment\24-07-2020\Jugraj 9th\HospitalWard\HospitalWard\bin\System.Web.WebPages.dll
+E:\9th assignment\24-07-2020\Jugraj 9th\HospitalWard\HospitalWard\bin\System.Web.WebPages.Razor.dll
+E:\9th assignment\24-07-2020\Jugraj 9th\HospitalWard\HospitalWard\bin\WebGrease.dll
+E:\9th assignment\24-07-2020\Jugraj 9th\HospitalWard\HospitalWard\bin\System.Web.Helpers.xml
+E:\9th assignment\24-07-2020\Jugraj 9th\HospitalWard\HospitalWard\bin\System.Web.Mvc.xml
+E:\9th assignment\24-07-2020\Jugraj 9th\HospitalWard\HospitalWard\bin\System.Web.Optimization.xml
+E:\9th assignment\24-07-2020\Jugraj 9th\HospitalWard\HospitalWard\bin\System.Web.Razor.xml
+E:\9th assignment\24-07-2020\Jugraj 9th\HospitalWard\HospitalWard\bin\System.Web.WebPages.xml
+E:\9th assignment\24-07-2020\Jugraj 9th\HospitalWard\HospitalWard\bin\System.Web.WebPages.Deployment.xml
+E:\9th assignment\24-07-2020\Jugraj 9th\HospitalWard\HospitalWard\bin\System.Web.WebPages.Razor.xml
+E:\9th assignment\24-07-2020\Jugraj 9th\HospitalWard\HospitalWard\bin\Newtonsoft.Json.xml
+E:\9th assignment\24-07-2020\Jugraj 9th\HospitalWard\HospitalWard\bin\Antlr3.Runtime.pdb
+E:\9th assignment\24-07-2020\Jugraj 9th\HospitalWard\HospitalWard\bin\EntityFramework.xml
+E:\9th assignment\24-07-2020\Jugraj 9th\HospitalWard\HospitalWard\bin\EntityFramework.SqlServer.xml
+E:\9th assignment\24-07-2020\Jugraj 9th\HospitalWard\HospitalWard\bin\Microsoft.AspNet.Identity.Core.xml
+E:\9th assignment\24-07-2020\Jugraj 9th\HospitalWard\HospitalWard\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\9th assignment\24-07-2020\Jugraj 9th\HospitalWard\HospitalWard\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\9th assignment\24-07-2020\Jugraj 9th\HospitalWard\HospitalWard\bin\Microsoft.Owin.xml
+E:\9th assignment\24-07-2020\Jugraj 9th\HospitalWard\HospitalWard\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\9th assignment\24-07-2020\Jugraj 9th\HospitalWard\HospitalWard\bin\Microsoft.Owin.Security.xml
+E:\9th assignment\24-07-2020\Jugraj 9th\HospitalWard\HospitalWard\bin\Microsoft.Owin.Security.Facebook.xml
+E:\9th assignment\24-07-2020\Jugraj 9th\HospitalWard\HospitalWard\bin\Microsoft.Owin.Security.Cookies.xml
+E:\9th assignment\24-07-2020\Jugraj 9th\HospitalWard\HospitalWard\bin\Microsoft.Owin.Security.Google.xml
+E:\9th assignment\24-07-2020\Jugraj 9th\HospitalWard\HospitalWard\bin\Microsoft.Owin.Security.Twitter.xml
+E:\9th assignment\24-07-2020\Jugraj 9th\HospitalWard\HospitalWard\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\9th assignment\24-07-2020\Jugraj 9th\HospitalWard\HospitalWard\bin\Microsoft.Owin.Security.OAuth.xml
+E:\9th assignment\24-07-2020\Jugraj 9th\HospitalWard\HospitalWard\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\9th assignment\24-07-2020\Jugraj 9th\HospitalWard\HospitalWard\obj\Debug\HospitalWard.csprojAssemblyReference.cache
+E:\9th assignment\24-07-2020\Jugraj 9th\HospitalWard\HospitalWard\obj\Debug\HospitalWard.Migrations.initial.resources
+E:\9th assignment\24-07-2020\Jugraj 9th\HospitalWard\HospitalWard\obj\Debug\HospitalWard.csproj.GenerateResource.cache
+E:\9th assignment\24-07-2020\Jugraj 9th\HospitalWard\HospitalWard\obj\Debug\HospitalWard.csproj.CoreCompileInputs.cache
+E:\9th assignment\24-07-2020\Jugraj 9th\HospitalWard\HospitalWard\obj\Debug\HospitalWard.csproj.CopyComplete
+E:\9th assignment\24-07-2020\Jugraj 9th\HospitalWard\HospitalWard\obj\Debug\HospitalWard.dll
+E:\9th assignment\24-07-2020\Jugraj 9th\HospitalWard\HospitalWard\obj\Debug\HospitalWard.pdb
